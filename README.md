@@ -4,11 +4,11 @@ Roster making application in Java platform
 * Compile the program using
 
 ```markdown
-$ javac <FileName>.java
+$ javac Main.java
 ```
 
 * Run the program using
 
 ```markdown
-$ java <ClassName>
+$ java Main
 ```
