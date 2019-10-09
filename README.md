@@ -1,5 +1,5 @@
 # Roster-maker
-Roster making application in Java platform
+Roster making application in Java platform.
 
 * Compile the program using
 
